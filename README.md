@@ -7,5 +7,5 @@
 
 ---
 
-<h1>-WARNING</h1>
+<h1 style="color: red;>WARNING</h1>
 <h2>The Monaplhabetic Substitution cipher should not be used in any production environment because of its easily decryptable nature!</h2>
